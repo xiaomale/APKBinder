@@ -1,0 +1,5 @@
+@echo off&setlocal enabledelayedexpansion
+set FF=info.txt
+for /f "tokens=2 delims=(," %%i in ('type "%FF%"^|findstr /i "name"') do (set dim=%%~i)
+echo %dim%
+pause>nul

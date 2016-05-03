@@ -1,0 +1,1 @@
+subinfo.txt:package: name='com.qihoo.appstore' versionCode='300050104' versionName='5.1.4'

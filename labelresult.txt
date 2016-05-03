@@ -1,0 +1,1 @@
+info.txt:application: label='凤凰新闻' icon='res/drawable-mdpi/icon.png'

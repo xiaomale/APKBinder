@@ -1,0 +1,1 @@
+for /f "tokens=2 delims='" %%a in ('type %1^') do  echo %%a>packageinfo.txt

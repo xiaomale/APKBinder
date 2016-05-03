@@ -1,0 +1,1 @@
+for /f "tokens=4 delims='" %%a in ('type %1^') do  echo %%a>iconinfo.txt

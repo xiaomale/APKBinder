@@ -1,0 +1,1 @@
+info.txt:launchable-activity: name='com.ifeng.news2.activity.SplashActivity'  label='' icon=''
